@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's fair warning to a speedy repentance: being an earnest exhortation to a holy life: or The only deliverer from eternal death and destruction Wherein is plainly laid down the great duty of speedy repentance; with the wretched state of a sinner, and the blessed state of a saint: shewing how the one (after death) will be cast for ever into the dreadful flames of Hell-fire: and the other will be received up into Heaven, to celebrate eternal halelujah's to the Lord of Lords, who (sitting at the right-hand of his father) will shortly come to judge the world. Likewise, some pithy arguments to persuade men to close with Christ. Preached by R. Liford, a B.D. since the dreadful earthquakes that have lately happen'd; ... And now published, to awaken drowsie sinners, who still lye in security, whilst God's judgements are on the earth.</title>
+            <author>Liford, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48424</idno>
+            <idno type="STC">Wing L2043</idno>
+            <idno type="STC">ESTC R216530</idno>
+            <idno type="EEBO-CITATION">99828257</idno>
+            <idno type="PROQUEST">99828257</idno>
+            <idno type="VID">32684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's fair warning to a speedy repentance: being an earnest exhortation to a holy life: or The only deliverer from eternal death and destruction Wherein is plainly laid down the great duty of speedy repentance; with the wretched state of a sinner, and the blessed state of a saint: shewing how the one (after death) will be cast for ever into the dreadful flames of Hell-fire: and the other will be received up into Heaven, to celebrate eternal halelujah's to the Lord of Lords, who (sitting at the right-hand of his father) will shortly come to judge the world. Likewise, some pithy arguments to persuade men to close with Christ. Preached by R. Liford, a B.D. since the dreadful earthquakes that have lately happen'd; ... And now published, to awaken drowsie sinners, who still lye in security, whilst God's judgements are on the earth.</title>
+                  <author>Liford, R.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Blare at the Looking-glass on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: England's fair warning to repentance.</note>
+                  <note>Imperfect; text ends on p. 15. Lacking all after p. 15?.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32684:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLAND</hi>'s <hi>Fair Warning</hi> TO A Speedy Repentance: BEING An <hi>Earneſt Exhortation</hi> to a <hi>Holy Life:</hi> Or, The <hi>only Deliverer</hi> from <hi>Eternal Death</hi> and <hi>Deſtruction.</hi>
+            </p>
+            <p>Wherein is plainly laid down</p>
+            <p>The great Duty of <hi>Speedy Repentance;</hi> with the Wretched State of a Sinner, and the Bleſſed State of a Saint: Shewing how the one (after Death) will be caſt for ever into the dreadful Flames of Hell-Fire: And the other will be received up into Heaven, to celebrate Eternal <hi>Halelujah</hi>'s to the Lord of Lords, who (ſitting at the Right-Hand of his Fa<g ref="char:EOLhyphen"/>ther) will ſhortly come to Judge the World.</p>
+            <p>Likewiſe, Some Pithy Arguments to perſuade Men to cloſe with Chriſt.</p>
+            <p>Preached by <hi>R. Liford,</hi> B. D. ſince the dreadful <hi>Earth<g ref="char:EOLhyphen"/>quakes</hi> that have lately happen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; particularly that in <hi>Cicily,</hi> near <hi>Mount Etna,</hi> where Seventy Six Thou<g ref="char:EOLhyphen"/>ſand Six Hundred and Eighty Perſons were deſtroyed: And now publiſhed, to awaken drowſie Sinners, who ſtill lye in Security, whilſt God's Judgments are of the Earth.</p>
+            <q>
+               <bibl>
+                  <hi>2 Pet. 3.9.</hi>
+               </bibl> The Lord is not ſlack concerning his pro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (as ſome men count ſlackneſs;) but is long-ſuffering <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>us-ward: not willing that any ſhould periſh, but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould come to repentance.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Blare,</hi> at the <hi>Looking-glaſs</hi> on <hi>London-Bridge,</hi> 1693.</p>
+            <pb facs="tcp:32684:2" rendition="simple:additions"/>
+            <pb facs="tcp:32684:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:32684:3"/>
+            <pb n="3" facs="tcp:32684:3"/>
+            <head>
+               <hi>England</hi>'s Fair Warning to <hi>Repentance,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LUKE 13.5.</hi>
+                  </bibl>
+                  <p>I tell you nay; but except ye repent; ye ſhall all likewiſe periſh.</p>
+               </q>
+            </epigraph>
+            <p>IN the firſt Verſe of this Chapter, you have the ſad piece of this News, that was told Jeſus, concerning the <hi>Galileans,</hi> whoſe Blood <hi>Pilate</hi> had mingled with their Sacrifices. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi> 2. you have our bleſſed <hi>Saviour</hi>'s Anſwer to his News: ſaith he unto them; <hi>Suppoſe ye that theſe Galileans were ſinners, above all the Galileans, becauſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ſuffer ſuch things? I tell you, nay: but except <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Repent ye ſhall all likewiſe periſh.</hi> And yet further, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi> 4. <hi>Or thoſe eighteen, upon whom the Tower of Siloe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, and ſlew them; think you, that they were ſinners, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove all men that dwelt in Jeruſalem? I tell you, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay: but except ye repent, ye ſhall all likewiſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eriſh.</hi> This former part of the Chapter con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ains the Sermon of Repentance, that was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reached by our bleſſed Saviour.</p>
+            <p>Repentance is a pure Goſpel-Grace; it comes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by Jeſus Chriſt; he hath purchaſed by his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lood, that repenting Sinners ſhall be ſaved.</p>
+            <p>
+               <pb n="4" facs="tcp:32684:4"/>The <hi>Doctrine</hi> I ſhall raiſe from theſe Words, is,
+<q>That it is a great Duty incumbent upon Chri<g ref="char:EOLhyphen"/>ſtians, to Repent, and turn to the Lord: Or It doth highly concern a People whom the Lord viſiteth with his Judgments, to ſtrive to turn <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, by Repentance, and Faith in Jeſus Chriſt.</q>
+            </p>
+            <p>Repentance and Converſion, is the only way to Salvation I need not ſtay to open the Text to you, and to prove it by Scripture: For if thou beeſt a Man or Woman, that do'ſt believe the Word of God, then thou believeſt, that without Repentance, none can be ſaved, as the Text has it: <hi>But I ſay unto you, Except ye repent, ye ſhall all likewiſe periſh.</hi> Well then, What ſayeſt thou Sinner? Do'ſt thou believe, or no? Thou muſt either confeſs, that this is true; or ſay plainly, that you will not believe the Word of God: and if once you are come to that paſs, there is but ſmall hopes of you: Look to your ſelves as well as you can; for 'tis like you will not be long out of Hell You would be ready to flie in the face of him that give you the Lye; and dare you give the Lye to God? If you will not believe the words of our bleſſed Saviour, whoſe will you? And doth not he ſay, <hi>That except ye repent; ye ſhall periſh?</hi> He doth not ſay you <hi>may</hi> periſh, but you <hi>ſhall:</hi> Nay, there is no doubt of it; let God be True, and every Man a Lyar: Chriſt hath ſpoken it, <hi>Luke</hi> 10.12. <hi>I ſay unto you, It ſhall be more tolerable for Sodom, at the day of of judgment, than it ſhall be for that people o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nation, that believe not theſe words of our Saviour.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:32684:4"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Is this a truth, That Repentance is the only way to prevent the Judgments of God, that hang over our Heads, becauſe of our Sin; then, firſt of all, I would entreat you, obſerve the curſed nature of this curſed thing called Sin: you ſee, Sin muſt be repented of, or we ſhall all periſh, or we ſhall all be damned: Sin will utterly de<g ref="char:EOLhyphen"/>ſtroy both our Bodies and Souls. I think it is one of the hardeſt things that is, to underſtand the deadly Poyſon that is in Sin: Sin is that which the Lord hates. <hi>The ſoul that ſins, ſhall ſurely die:</hi> This was the Old Law. But the Goſpel of Chriſt ſaith, <hi>Repent and forſake your ſins:</hi> Or, <hi>Repent and believe, and you ſhall be ſaved.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Is Repentance the way and means to prevent a People or Nation from periſhing? Then from hence you may learn the Excellency and the Uſefulneſs of that Grace of Repentance. Oh! What an Omnipotent Grace is this! It is a Grace that can do any thing with God: This Grace of Repentance can redeem our mortgag'd Bleſſings; it can make us a happy People, <hi>Jer.</hi> 31.18, 19, 20. <hi>I have ſurely heard Ephraim be<g ref="char:EOLhyphen"/>moaning himſelf thus; Thou haſt chastiſed me, and I was chaſtiſed, as a Bullock unaccuſtomed to the yoke: Turn thou me, and I ſhall be turned; for thou art my Lord my God. Surely, after I was turned, I repented, and after I was inſtructed, I ſmote upon my thigh: I was aſhamed; yea, even con<g ref="char:EOLhyphen"/>founded, becauſe I did bear the reproach of my youth. Is Ephraim, my dear Son, is he a pleaſant Child; for ſince I ſpeak againſt him, I do earneſtly remember
+<pb n="6" facs="tcp:32684:5"/>
+him ſtill; therefore my bowels are turned for him I will ſurely have mercy upon him, ſaith th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord.</hi> From hence you may obſerve, That Re<g ref="char:EOLunhyphen"/>penting Sinners are exceeding precious in the ſight of the Lord; his heart is turned toward them: Oh! What an excellent Privilege hath penitent heart with <hi>God!</hi> My Beloved, How can you live without ſuch a Grace? your Soul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want it; your Families want it; and the Na<g ref="char:EOLunhyphen"/>tion ſtands in need of it: The greateſt Want thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day in <hi>England,</hi> is a broken Heart.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. Is Repentance the only way to prevent Judgments? Then from hence gather, That when <hi>God</hi> either hath his Plagues upon a Peo<g ref="char:EOLunhyphen"/>ple, or continues threatning his Judgments to<g ref="char:EOLhyphen"/>wards them, it is a ſign that thoſe People are very guilty of Impenitency. If God threatens thee, O <hi>England,</hi> to give thee up to hardneſs of heart, and blindneſs of mind: Doth God do it at this day? They ſay (O <hi>England!</hi>) thou art an impenitent People at this day. O <hi>England</hi> this is my Charge againſt thee, You have been a ſtiff-necked People. O <hi>London! London!</hi> How long ſhall the Lord wait upon thee, before thou wilt repent! What can you expect, but that <hi>God</hi> will yet viſit <hi>England</hi> with his Judgment, till we be humbled, and heartily repent us of our Sins: 'Tis for Sin, that the Nation mourns. Oh, the Swearing, Whoring, and Sabbath-breaking, Schiſm, and Diſobedience to Magiſtrates, is this day in <hi>London!</hi> O you ſinful Generation, is this your requiting of God for all his Mer<g ref="char:EOLhyphen"/>cies?
+<pb n="7" facs="tcp:32684:5"/>
+               <hi>Deut.</hi> 32.6. <hi>Do ye thus requite the Lord, O ye fooliſh and unwiſe!</hi> What ſay ye? Will you repent, or not? This is my Queſtion, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have to ask you this day: Will you Repent? Do not flatter your ſelves about Matters of ſo great concernment, as your Immortal Souls. Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ider this (O Sinners) if you will repent, then you may live happy in the Land of your Nativity, and go to your Death-beds in peace: But if you will not Repent of your Sins; then, I ſay, you muſt (inſtead of Bleſſings) expect nothing but Curſes.</p>
+            <p>It is plain, that God is angry with you; for God would never have ſent ſo many Judgments after one another. Once more: Will you re<g ref="char:EOLhyphen"/>pent, or will you not? If you will not, your ſins lye at your own doors. Do not think it is a hard Queſtion, when I ask you to Repent; but con<g ref="char:EOLhyphen"/>ſider, there are two places where there is no re<g ref="char:EOLhyphen"/>penting; the one is in the Grave, the other in Hell. It were a vain thing for me, to go to the Gates of Hell, and cry to them, Repent; for the Day of Grace is paſt, and their Doom is paſſed upon them. I do verily think, that there is more ſorrowing in Hell for ſin, than there is this Day in <hi>England;</hi> but their ſorrow is not a ſanctified ſorrow: If the Damned in Hell were delivered out of Hell, they would ſin again; if they lived eternally, they would ſin eter<g ref="char:EOLhyphen"/>nally. But I am not a ſpeaking to Men in Hell, but to you Sinners in <hi>England.</hi>
+            </p>
+            <p n="1">
+               <pb n="8" facs="tcp:32684:6"/>1. I ſay unto you, Repent: Becauſe Jeſus Chriſt hath commanded you under great Penal<g ref="char:EOLunhyphen"/>ties, if you do not. Conſider a little (O Sinner) who 'tis that calls for Repentance: it is not I but the great <hi>God;</hi> it is <hi>Jeſus Chriſt:</hi> and doubt<g ref="char:EOLunhyphen"/>leſs Chriſt could never have preſſed you to this work, if it were not neceſſary. He ſaith unto you, <hi>Repent:</hi> and ſaith unto you, <hi>If you do not your ſins ſhall not be blotted out.</hi> Wo be unto that Man or Woman that repenteth not; better i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were that he had never been born, that he had never ſeen the Light: the Parents that bar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee, they may repent that ever thou wert been It would grieve your Parents, to ſee you car<g ref="char:EOLunhyphen"/>ried to the Gallows to be hanged; and will i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not much more grieve them, to ſee you caſt Body and Soul, into everlaſting Burnings? ther<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be tormented with the Devil and his Angels for ever.</p>
+            <p n="2">2. Repent; for Chriſt hath encouraged yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with many precious Promiſes: he will heal a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your back-ſliding, and love you freely; thoug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Sins be as Mountains, he will make ther<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as Mole-hills; though as Red as Scarlet, he wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make them as White as Milk.</p>
+            <p>But ſome will Object, and ſay, This is a ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Work. What! ſhall we always go with Tear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in our Eyes? What will God give us for our Re<g ref="char:EOLunhyphen"/>ward?</p>
+            <p>Ah! poor Sinner! fear not; do not queſtio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Reward: for as ſure as God is true, ſo ſur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou ſhalt have Chriſt, Heaven and Glory, and
+<pb n="9" facs="tcp:32684:6"/>
+be happy for ever. Sinners, methinks it ſhould make you to quake, to think how God will deal with you at the great and dreadful Day of Judg<g ref="char:EOLhyphen"/>ment, when he ſhall ſay, <hi>Take him Devils, bind him hand and foot, and fling him into everlaſting burning; where ſhall be weeping, and wailing, and gnaſhing of teeth.</hi> Oh! it is a dreadful Sentence, to be adjudged to Everlaſting Fire; and look for it, Sinner, if thou wilt not repent, theſe are the words that thou ſhalt hear Chriſt pronounce againſt thee, <hi>Depart from me, I know you not.</hi> And thou may'ſt be ſure (O Sinner) if thou art not with Chriſt, thou muſt be with the Devil, thou muſt be either in Heaven or Hell.</p>
+            <p n="3">3. Repent, becauſe the Lord hath long wait<g ref="char:EOLhyphen"/>ed upon you: How long hath God ſtood at the Doors of your Hearts, wooing and beſeeching you to repent? How long (O thou proud Man or Woman!) hath God called unto thee? How often hath he knocked at your hard Hearts? but you would not let him in. Oh, thou grey-headed Sinner! God hath long waited on thee, it may be, ever ſince thou waſt Fifteen or Sixteen Years of age, to ſee if thou wouldeſt repent, <hi>Rom.</hi> 2.4. Or deſpiſeſt thou the Righteous of his Goodneſs, and Forbearance, and Long-ſuf<g ref="char:EOLhyphen"/>fering, not knowing that the Goodneſs of God <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endeth thee to Repentance? There is not a Bleſſing that thou haſt from God, but it hath this writ upon it, <hi>Repent of thy Sins.</hi> Wilt thou think of this? When God puts the Bread into <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy Hands, he ſaith unto thee, Sinner, Take this
+<pb n="10" facs="tcp:32684:7"/>
+Bread, Eat, and Repent: And when God puts the Cup of Beer into thy Hands, he ſaith unto the Sinner, Take this Cup of Beer, and Re<g ref="char:EOLhyphen"/>pent: When thou riſeſt in the Morning, he faith unto thee, Sinner, Take this Suit of Cloaths, put it on, and Repent: Every Mercy that thou receiveſt from God, calls to thee for Repentance.</p>
+            <p n="4">4. If you will Repent, and leave your Sins, <hi>God</hi> will not be angry with you. My Beloved, you have heard the Parable of the Prodigal Son, who when he had ſpent all, he returned home to his Father's Houſe: ſo, my Beloved, <hi>God</hi> is your Father, but you are Prodigals: all the Sin you have committed againſt him, is Pro<g ref="char:EOLhyphen"/>digality. But let me tell you, If you are wil<g ref="char:EOLhyphen"/>ling to come to God's Feet, he will take you about the Neck: If you are willing to forſake your ſins, God is willing and ready to pardon your ſins, though you have been a wicked, re<g ref="char:EOLhyphen"/>bellious, and ſinful People; yet if you will turn to the Lord, he will turn to you.</p>
+            <p n="5">5. Repent; becauſe the Lord ſendeth his Meſſengers unto you, for to intreat you to Re<g ref="char:EOLhyphen"/>pent. Woe be unto you, therefore, if you neglect this great Salvation. You know, that it was one main Reaſon, why God took away his Prophets and Miniſters from <hi>Jeruſalem,</hi> becauſe they would not hearken to their Meſſengers: as you may read, <hi>Mat.</hi> 23.37, 38, 39. <hi>O Je<g ref="char:EOLhyphen"/>ruſalem! Jeruſalem! thou that killeſt the Pro<g ref="char:EOLhyphen"/>phets, and ſtoneſt them that were ſent unto thee:
+<pb n="11" facs="tcp:32684:7"/>
+How often would I have gathered thy children to<g ref="char:EOLhyphen"/>gether, even as a hen gathereth her chickens under her wings, and ye would not? Behold, your houſes are left unto you deſolate. For I ſay unto you, Ye ſhall not ſee me henceforth, till ye ſhall ſay, Bleſſed is he that cometh in the name of the Lord.</hi> I may very well apply this to <hi>Lon<g ref="char:EOLhyphen"/>don:</hi> Oh! how often would the Lord have gathered you, even as a Hen gathereth her Chickens? but ye would not. What ſay you now, <hi>England?</hi> O <hi>London!</hi> will you Re<g ref="char:EOLhyphen"/>pent? or will you not? Will not all this that hath been ſaid, prevail with you? Alas, I am heartily ſorry, to ſee that nothing will prevail with you, but the Flames of Hell! Oh, then you would ſay, Oh! if we had but hearkened unto the Voice of <hi>God</hi>'s Meſſen<g ref="char:EOLhyphen"/>gers, that were ſent unto us, to call us to Repentance.</p>
+            <p n="6">6. O <hi>England!</hi> Repent to day, and turn to the Lord. O! delay not an hour longer; Time is, a precious Jewel, more worth than the whole World; and if Time be once loſt, there is no regaining of it. O fall down up<g ref="char:EOLhyphen"/>on your Knees, and bleſs God that you have yet the Light of the Goſpel, and that you have Time left to ſecure your Souls, and get an Intereſt in Jeſus Chriſt.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider how dreadful it will be to you, when you come to die, if you do not Re<g ref="char:EOLhyphen"/>pent and turn to the Lord, while you are in health. O how will you cry out, when your
+<pb n="12" facs="tcp:32684:8"/>
+Hour of Death approaches, when you ſhall ſee all the things of the Earth fail you, and take their leaves of you for ever. All your outward Enjoyments, Parts, Parentage, Birth, Breeding, Wealth, Crowns, Kingdoms, Pearls, Diamonds, Houſes, Lands, Wife, Children and Friends, when once your Breath is gone, all theſe are gone, <hi>Prov.</hi> 27.24. Hear now this, you that are given to Pleaſure, that feaſt your ſelves in doing evil; you that put far from you the Day of the Lord; you that ſay, It is time enough to Repent, when we come to die. Ah, Fools, how do you know whe<g ref="char:EOLhyphen"/>ther God will give you Repentance then, or no.</p>
+            <p>Sirs, I beſeech you, Repent, while it is cal<g ref="char:EOLhyphen"/>led to Day; for you know not whether you ſhall live till to morrow.</p>
+            <p>O conſider, with a trembling heart, how much depends upon this Repenting, and turn<g ref="char:EOLhyphen"/>ing to God; namely, the gaining or loſing thy dear and precious Soul; gaining or loſing of God's Favour, the Fruition of God, the Joys of Heaven, or the Torments or Sorrows of Hell depend upon it. Poor Souls, I pity you with my very heart, to ſee how ignorant you are of ſo great Concernments: you Eat and Drink, Sleep, Lye, Sell, and get Gain in the World; but little do you mind to accumulate heavenly Treaſure, to get your ſinking Souls ſafe a-ſhore. You conſider not the evil day: woe be unto him that is alone in Life, and
+<pb n="13" facs="tcp:32684:8"/>
+alone in Death, that has no Chriſt to befriend him, or ſtand by him in that day; that com<g ref="char:EOLhyphen"/>eth to lye down in his Grave, without Peace or Pardon, without hearty Contrition, with<g ref="char:EOLhyphen"/>out Repenting of his Sins: and ſhall Riſe again, and ſtand at the Bar of God's Juſtice, without an Advocate to plead for him.</p>
+            <p n="7">7. And <hi>Laſtly,</hi> Try your Repentance by the Word of God; ſee whether it be true Repentance, or no; for the Devil hath many Cheats: ſearch your own Hearts, to ſee whe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her thoſe Sins you formerly loved, be now hated and ſhunned by you.</p>
+            <p>Make ready for the other World; think <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon the other World, think upon Death <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Judgment: Death, that King of Ter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, will, e're long, terminate your Days, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd then all your Opportunities will be gone for ever. Let me ask you, as in the Preſence of the Great Judge of Quick and Dead, at whoſe Tribunal you muſt all ſhortly ſtand, and giving an Account of your Deeds) be either Received up into Heaven, or plunged into Hell. I have ſome Queries to ask you:</p>
+            <p>
+               <hi>Firſt,</hi> Are not they in a very happy Condi<g ref="char:EOLhyphen"/>tion, that (Repenting) turns to the Lord with their whole Hearts; living a Life of Grace, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd truly preparing for Death, for fear of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſing their own Souls, being in a hazzard of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſing Heaven? <hi>Rom.</hi> 8.7. <hi>Pſal.</hi> 37.37.</p>
+            <p>
+               <hi>Secondly</hi> Do you believe that Death will come, and that Sin, that curſed thing, will
+<pb n="14" facs="tcp:32684:9" rendition="simple:additions"/>
+ſting; and that the Caſe of all impenitent Sinners, at the hour of Death will be ſad and terrible, and deſperate? Let me ſay to all ſuch, there is not a Night you lie down on your Beds, but you run a very great hazard, if Death ſhould call, and you not ready, you muſt go, though you are ruin'd to all Eter<g ref="char:EOLhyphen"/>nity, though you be damned for ever, <hi>Mat.</hi> 25.10, 11, 12, 13.</p>
+            <p>
+               <hi>Thirdly,</hi> Can you cheerfully entertain the thoughts of Death, and Judgments, all you hard hearted Sinners, that have not Repen<g ref="char:EOLhyphen"/>ted? Suppoſe the dreadful Judge ſhould at this inſtant ſend Death with the Names of Five, or Six of you in a Writ, or Forehead, and Death ſhould ſay, You, and you, this Man, and that Woman, muſt go along with me; I have received a Command from the great terrible God, who hath the Power of Death and Hell, to bring you this Day, or Night, before the Judgement-Seat: I have of<g ref="char:EOLhyphen"/>ten warned you by ſending my Deputies this Ten or Twenty years. Every Grave, and Cof<g ref="char:EOLhyphen"/>fin you have ſeen, was ſo many Intimations of my coming: Now, ſaith Death, I am come, ſee my Dart, this Dart muſt kill thy Body, and ſend thy Soul into Eternity, I command you this moment, to bid adieu to this World, <hi>Luk.</hi> 12.19, 20. How can you think of your dy<g ref="char:EOLhyphen"/>ing, and the Worlds burning, the Trumpets ſounding, the Dead Corps raiſing, and ſtand<g ref="char:EOLhyphen"/>ing at the Bar of God's Juſtice, and not fear
+<pb n="15" facs="tcp:32684:9"/>
+and tremble you that have not Repented: you, Sons and Daughters of Pleaſure, did you con<g ref="char:EOLhyphen"/>ſider what horror and aſtoniſhment doggs you at the Heels, which will inevitably come up<g ref="char:EOLhyphen"/>on you, as Travel on a Woman with Child, you would not ſay unto God, depart.</p>
+            <p>
+               <hi>Fourthly,</hi> And laſtly, Oh! what a killing and amaſing ſight will Chriſt's coming in the Clouds, be to all that either deny his com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, or will not prepare for it by ſpeedy Re<g ref="char:EOLhyphen"/>pentance: His Incarnation was terrible, <hi>Mat.</hi> 2.3. His Crucifixion was more terrible, <hi>Luk.</hi> 23.44, 45.46, 47, 48. But his Judging the World at the Great Day, will be moſt terrible, then ſhall the Tribes of the Earth mourn <hi>Mat.</hi> 24.30. And men ſhall cry to the Rocks to fall on them, <hi>Rev.</hi> 6.15, 16. When they ſhall ſee ſo many Thouſands, and Millions of Men and Women dragged down to that burning Lake of Fire, and Brimſtone, there to be tor<g ref="char:EOLhyphen"/>mented for ever: How will they then cry, Oh that we had Repented! they will howl for vexation of Spirit, and in the bitterneſs of their Souls wiſh that they had never heard of a Chriſt, that they had been born among Hea<g ref="char:EOLhyphen"/>thens, or never had a Being, or enjoyed a Life of Pleaſure upon Earth. How will the wretched Sinner beat his Breaſt, pluck off his Hair, tear his Bowels, crying when he is paſt Hopes, Oh that I had now no Soul, or that this immortal Soul were mortal, that I might not be tormented in theſe dreadful Faines for ever</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
